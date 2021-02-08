@@ -1,0 +1,10 @@
+C:\Users\00acc\source\repos\SpamTemplate\SpamTemplate\bin\Debug\SpamTemplate.exe.config
+C:\Users\00acc\source\repos\SpamTemplate\SpamTemplate\bin\Debug\SpamTemplate.exe
+C:\Users\00acc\source\repos\SpamTemplate\SpamTemplate\bin\Debug\SpamTemplate.pdb
+C:\Users\00acc\source\repos\SpamTemplate\SpamTemplate\obj\Debug\SpamTemplate.csprojAssemblyReference.cache
+C:\Users\00acc\source\repos\SpamTemplate\SpamTemplate\obj\Debug\SpamTemplate.Form1.resources
+C:\Users\00acc\source\repos\SpamTemplate\SpamTemplate\obj\Debug\SpamTemplate.Properties.Resources.resources
+C:\Users\00acc\source\repos\SpamTemplate\SpamTemplate\obj\Debug\SpamTemplate.csproj.GenerateResource.cache
+C:\Users\00acc\source\repos\SpamTemplate\SpamTemplate\obj\Debug\SpamTemplate.csproj.CoreCompileInputs.cache
+C:\Users\00acc\source\repos\SpamTemplate\SpamTemplate\obj\Debug\SpamTemplate.exe
+C:\Users\00acc\source\repos\SpamTemplate\SpamTemplate\obj\Debug\SpamTemplate.pdb
